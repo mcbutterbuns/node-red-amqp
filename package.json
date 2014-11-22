@@ -1,0 +1,14 @@
+{
+  "name": "node-red-contrib-amqp",
+  "version": "1.0.0",
+  "description": "A listener for amqp messages",
+  "main": "node-red-amqp.js",
+  "keywords": [
+    "node-red"
+  ],
+  "author": "Jonathan Broderick",
+  "license": "MIT",
+  "dependencies": {
+    "amqp": "^0.2.0"
+  }
+}
